@@ -12,9 +12,13 @@ Python 3.7
    source venv/Scripts/activate 
     ```
 - Установите зависимости из файла requirements.txt
-``` pip install -r requirements.txt ```
+    ``` 
+   pip install -r requirements.txt 
+    ```
 - В папке с файлом manage.py выполните команду:
-``` python manage.py runserver ```
+    ``` 
+   python manage.py runserver 
+    ```
      
 
 
